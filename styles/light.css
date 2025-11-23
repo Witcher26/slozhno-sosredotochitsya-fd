@@ -9,7 +9,7 @@
         --article-color: rgba(53, 52, 48, 1);
     }
 
-    :root.theme-auto .article-heading {
+    :root.theme-auto .article-section__heading {
         color: var(--title-color);
     }
 
@@ -62,7 +62,7 @@
     --accent-color: var(--title-color);
 }
 
-:root.theme-light .article-heading {
+:root.theme-light .article-section__heading {
     color: var(--title-color);
 }
 
