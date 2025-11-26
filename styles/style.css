@@ -364,7 +364,7 @@ a:focus-visible {
     }
 
     .article-section_columns .article-section__heading {
-        max-inline-size: 30%;
+        max-inline-size: none;
     }
 
     .article-section_grid .article-section__container {
