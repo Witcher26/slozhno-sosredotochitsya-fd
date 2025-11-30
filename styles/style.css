@@ -239,6 +239,15 @@ a:focus-visible {
     border-bottom: 0.5px solid currentColor;
 }
 
+.title_decor {
+    background-color: var(--accent-color);
+    font-family: var(--font);
+    color: var(--bg-color);
+    font-weight: var(--bold);
+    font-size: var(--text-font-size);
+    line-height: 23.4px;
+}
+
 @media (width >= 768px) {
     :root {
         --padding-side: 20px;

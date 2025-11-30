@@ -12,5 +12,5 @@
     --light: 400;
     --font: IBM Plex mono, monospace;
     --image-gap: 3px;
-     --logo-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
+    --logo-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
 }
