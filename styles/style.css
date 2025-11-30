@@ -100,11 +100,10 @@ h1 {
 }
 
 .title__title-description {
-    grid-row:3;
     justify-self: center;
     align-self: end;
     text-align: left;
-    margin-bottom: 78px;
+    margin-bottom: 74px;
     max-width:355px;
     white-space:pre-line;
 }
