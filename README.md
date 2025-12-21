@@ -1,4 +1,4 @@
-https://github.com/Witcher26/slozhno-sosredotochitsya-fd
+[https://github.com/Witcher26/slozhno-sosredotochitsya-fd](https://witcher26.github.io/slozhno-sosredotochitsya-fd/)
 
 # Яндекс Практикум, практическая работа 3-го Спринта: "Сложно сосредоточиться"
 
